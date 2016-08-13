@@ -31,7 +31,7 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 ## Lección 3 - IPython Parallel
 **Temas:** Modelo de programación, Distribución de Tareas, Comunicaciones, Coordinación, Sincronización, Procesamiento de imágenes.
 
-**Refs:** [IPython for Parllel Computing](https://ipython.org/ipython-doc/3/parallel/index.html)
+**Refs:** [IPython for Parallel Computing](https://ipython.org/ipython-doc/3/parallel/index.html)
 
 ## Lección 4 - Paralelismo Masivo con Apache Spark
 **Temas:** Modelos de paralelismo en Big Data, Resilient Distributed Datasets, Modelo de programación, Acciones y Operaciones Spark
