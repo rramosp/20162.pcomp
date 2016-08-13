@@ -43,6 +43,6 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 
 La puerta de entrada a **GUANE** a través de los notebooks de IPython es
 
-[www.sc3.uis.edu.co/guaneJ10](www.sc3.uis.edu.co/guaneJ10)
+[www.sc3.uis.edu.co/guaneJ10](http://www.sc3.uis.edu.co/guaneJ10)
 
 donde el `J10` puede cambiar en función de la asignación de recursos al curso.
