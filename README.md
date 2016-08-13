@@ -10,13 +10,12 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 
 + una máquina virtual configurada para las lecciones 1, 2 y 3, con CentOS 6, OpenMP y Python Anaconda para que puedas realizar de manera independiente tus ejercicios (_contáctame para obtenerla_)
 + una máquina virtual con la instalación del [Spark](http://spark.apache.org/) para la lección 4. Seguiremos parte del contenido del curso en EDX sobre [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
-+ la infraestructura `guane` de [Centro de Supercómputo y Cálculo Científico de la UIS](http://www.sc3.uis.edu.co) sobre todo para las pruebas de escalabilidad y uso de CUDA/GPUs (_instrucciones de acceso más abajo_)
++ la infraestructura `guane` de [Centro de Supercómputo y Cálculo Científico de la UIS](http://www.sc3.uis.edu.co) sobre todo para las pruebas de escalabilidad.
 
-**Crea una copia local de este repositorio para trabajar en los ejercicios desde la máquina virtual del curso y lanza tu servidor personal del entorno de ejecución de `ipython notebooks`**
+**Crea una copia local de este repositorio para trabajar en los ejercicios desde la máquina virtual del curso o desde GUANE y lanza tu servidor personal del entorno de ejecución de `ipython notebooks`**
 
-    :::console
-    git clone https://bitbucket.org/rramosp/ucaldas.20152.msc
-    ipython notebook
+    wget https://github.com/rramosp/20162.pcomp/archive/master.zip
+    unzip master.zip
 
 ## Lección 1 - Introducción
 
@@ -47,9 +46,3 @@ La puerta de entrada a **GUANE** a través de los notebooks de IPython es
 [www.sc3.uis.edu.co/guaneJ10](www.sc3.uis.edu.co/guaneJ10)
 
 donde el `J10` puede cambiar en función de la asignación de recursos al curso.
-
-Si es la primera vez que entras, crea una copia del repositorio de ejercicios para poder trabajarlos de manera independiente 
-
-    :::console
-    wget https://github.com/rramosp/20162.pcomp/archive/master.zip
-    unzip master
