@@ -28,12 +28,12 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 
 **Refs:** Tim Mattson, Intel [[video lectures](http://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG), [materials](https://software.intel.com/en-us/courseware/249662)], Lista de recursos [[enlace](http://www.compunity.org/training/tutorials/)]
 
-## Lección 3 IPython Parallel
+## Lección 3 - IPython Parallel
 **Temas:** Modelo de programación, Distribución de Tareas, Comunicaciones, Coordinación, Sincronización, Procesamiento de imágenes.
 
 **Refs:** [IPython for Parllel Computing](https://ipython.org/ipython-doc/3/parallel/index.html)
 
-## Lección 4 Paralelismo Masivo con Apache Spark
+## Lección 4 - Paralelismo Masivo con Apache Spark
 **Temas:** Modelos de paralelismo en Big Data, Resilient Distributed Datasets, Modelo de programación, Acciones y Operaciones Spark
 
 **Refs:**  Seguiremos parte del curso sobre [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info) en EDX. Los siguientes ProblemSets son parte de los assignments de dicho curso.
