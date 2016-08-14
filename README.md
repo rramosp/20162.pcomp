@@ -12,7 +12,7 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 + una máquina virtual con la instalación del [Spark](http://spark.apache.org/) para la lección 4. Seguiremos parte del contenido del curso en EDX sobre [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
 + la infraestructura `guane` de [Centro de Supercómputo y Cálculo Científico de la UIS](http://www.sc3.uis.edu.co) sobre todo para las pruebas de escalabilidad.
 
-**Crea una copia local de este repositorio para trabajar en los ejercicios desde la máquina virtual del curso o desde GUANE y lanza tu servidor personal del entorno de ejecución de `ipython notebooks`**
+**Crea una copia local de este repositorio para trabajar en los ejercicios o en las notas desde la máquina virtual del curso o desde GUANE**
 
     wget https://github.com/rramosp/20162.pcomp/archive/master.zip
     unzip master.zip
