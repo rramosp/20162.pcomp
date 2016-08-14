@@ -38,6 +38,11 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 
 **Refs:**  Seguiremos parte del curso sobre [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info) en EDX. Los siguientes ProblemSets son parte de los assignments de dicho curso.
 
+## Uso máquina virtual **GUANE** @ **UIS**
+
+Una vez arrancada la máquina, accede desde un navegador en tu máquina física, a la dirección
+
+     http://localhost:9999
 
 ## Uso infraestructura **GUANE** @ **UIS**
 
@@ -45,4 +50,4 @@ La puerta de entrada a **GUANE** a través de los notebooks de IPython es
 
 [www.sc3.uis.edu.co/guaneJ10](http://www.sc3.uis.edu.co/guaneJ10)
 
-donde el `J10` puede cambiar en función de la asignación de recursos al curso.
+donde el `J10` puede cambiar en función de la asignación de recursos al curso. Desde aquí, usa tu cuenta de estudiante.
