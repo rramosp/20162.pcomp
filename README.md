@@ -44,10 +44,13 @@ Contáctame para obtener las máquinas virtuales del curso que deberás de impor
 
      http://localhost:9999
 
+abre el notebook README o abre un nuevo termina para descargarte y descomprimir el repositorio.
+
 ## Uso infraestructura **GUANE** @ **UIS**
 
 La puerta de entrada a **GUANE** a través de los notebooks de IPython es
 
 [www.sc3.uis.edu.co/guaneJ10](http://www.sc3.uis.edu.co/guaneJ10)
 
-donde el `J10` puede cambiar en función de la asignación de recursos al curso. Desde aquí, usa tu cuenta de estudiante.
+donde el `J10` puede cambiar en función de la asignación de recursos al curso. Desde aquí, usa tu cuenta de estudiante. Abre un nuevo termina para descargarte y descomprimir el repositorio.
+
