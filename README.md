@@ -38,9 +38,9 @@ Raúl Ramos-Pollán, Universidad Industrial de Santander, \[[+info](https://site
 
 **Refs:**  Seguiremos parte del curso sobre [Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info) en EDX. Los siguientes ProblemSets son parte de los assignments de dicho curso.
 
-## Uso máquina virtual **GUANE** @ **UIS**
+## Uso máquina virtual
 
-Una vez arrancada la máquina, accede desde un navegador en tu máquina física, a la dirección
+Contáctame para obtener las máquinas virtuales del curso que deberás de importar y arrancar en VirtualBox. Una vez arrancada la máquina, accede desde un navegador en tu máquina física a la dirección
 
      http://localhost:9999
 
